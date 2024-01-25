@@ -1,0 +1,1 @@
+{"Thermometer":{"value":"1","type":["output","string"]},"CSPin":{"value":24,"type":["output","number"]},"temperature":{"value":{"value":-9999,"units":"C","time":1642605650816},"type":["intput","datapoint"]},"Description":{"value":"","type":["output","string"]},"Details":{"value":"pin 24","type":["output","string"]},"datastreams":{"refreshRate":300},"updateable":[]}
